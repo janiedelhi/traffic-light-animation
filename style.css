@@ -1,0 +1,57 @@
+.signal-light  {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: #aa344c;
+  display: block;
+  left: 10px;
+}
+
+.signal-light-static  {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: #958e97f9;
+  left: 10px;
+}
+
+#light-1 {
+  top: 20px;
+}
+
+#light-2 {
+  top: 100px;
+}
+
+#light-3 {
+  top: 180px;
+}
+
+.signal-box {
+  position: absolute;
+  height: 260px;
+  width: 80px;
+  background-color: #e5e07d;
+  top: 10%;
+  left: 45%;
+  padding-top: 20px;
+}
+
+.signal-status{
+  position: absolute;
+  width: 80px;
+  top: 60%;
+  left: 45%;
+  text-align: center;
+}
+  
+body {
+  color: #000000;
+  font-family: 'Poppins', sans-serif;
+  background-color: #e2eceb
+}
+
+
+
